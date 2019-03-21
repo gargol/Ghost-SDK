@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
@@ -5,4 +6,12 @@
     "title": "images.upload",
     "description": "Schema for images.upload",
     "$ref": "images#/definitions/image"
+=======
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "images.upload",
+  "title": "images.upload",
+  "description": "Schema for images.upload",
+  "$ref": "images#/definitions/image"
+>>>>>>> 8bf6de9... [admin-api-schema] Exposed only JSON Schema files
 }
